@@ -1,10 +1,10 @@
-![Pranav (1)](https://user-images.githubusercontent.com/65620582/120490744-4a2fdb00-c3d6-11eb-819d-c7aa9f671f94.png)(https://sreenathpranav.github.io)
+[![Pranav (1)](https://user-images.githubusercontent.com/65620582/120490744-4a2fdb00-c3d6-11eb-819d-c7aa9f671f94.png)](https://pranavsreenath.me/)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate mobile app developer from India</h3>
+<h3 align="center"> Explore | Learn | Share </h3>
 
 <p align="left">
 </p>
-- 👨‍💻 Check out my portfolio at [https://pranavsreenath.me/](https://sreenathpranav.github.io/)
+- 👨‍💻 Check out my portfolio at [https://sreenathpranav.github.io/](https://pranavsreenath.me/)
 
 - 📫 How to reach me **pranavsreenath1@gmail.com**
 
