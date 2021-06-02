@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreenathpranav&show_icons=true&locale=en&layout=compact" alt="sreenathpranav" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sreenathpranav&show_icons=true&locale=en" alt="sreenathpranav" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sreenathpranav&show_icons=true&locale=en" alt="sreenathpranav" /></p>
