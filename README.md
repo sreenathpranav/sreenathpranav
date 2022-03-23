@@ -1,10 +1,10 @@
-[![Pranav (1)](https://user-images.githubusercontent.com/65620582/120490744-4a2fdb00-c3d6-11eb-819d-c7aa9f671f94.png)](https://pranavsreenath.me/)
+[![Pranav (1)](https://user-images.githubusercontent.com/65620582/120490744-4a2fdb00-c3d6-11eb-819d-c7aa9f671f94.png)](https://sreenathpranav.github.io/)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center"> Explore | Learn | Share </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreenathpranav&label=Profile%20views&color=0e75b6&style=flat" alt="sreenathpranav" /> </p>
 
-- Portfolio [https://pranavsreenath.me/](https://pranavsreenath.me/)
+- Portfolio [https://sreenathpranav.github.io/](https://sreenathpranav.github.io/)
 - YT channel [Pranav Sreenath](https://www.youtube.com/channel/UChotR5vSra87HS4JpbZaBfw)
 -  [LinkedIn](https://www.linkedin.com/in/pranav-sreenath/)
 -  [Twitter](https://twitter.com/pranav_sreenath)
